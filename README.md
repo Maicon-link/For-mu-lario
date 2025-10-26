@@ -1,4 +1,4 @@
-Fiz um formulário de cadastro contendo: 
+Formulário de cadastro contendo: 
 Primeiro nome;
 Último nome;
 Nascimento; 
